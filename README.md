@@ -1,2 +1,2 @@
-# qual3
-Applied Qual Repository
+# quant3
+Applied Quantitative Methods Repository
