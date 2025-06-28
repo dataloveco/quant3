@@ -38,6 +38,5 @@ quant3/
 ├── module-07_forecasting/           # (To Be Posted)
 ├── module-08_machine-learning/      # (To Be Posted)
 ├── module-09_web-apps/              # (To Be Posted)
-├── individual-research/             # (To Be Posted)
 └── resources/                       
 ```
