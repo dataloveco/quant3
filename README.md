@@ -81,7 +81,7 @@ To run the notebook:
 
 ## License
 
-This repository is intended for academic use only under the University of Denver Quantitative Methods III course.
+This repository is intended for academic use only under the University of Denver FIN-6305 Applied Quantitative Methods course.
 
 ---
 
