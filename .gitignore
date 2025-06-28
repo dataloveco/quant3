@@ -1,0 +1,25 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Notebooks
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
