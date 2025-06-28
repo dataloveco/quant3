@@ -3,14 +3,14 @@
 Welcome to the resource library for FIN 6305: Applied Quantitative Methods in Finance. This guide was created to support students with little or no programming experience in learning Python, Jupyter, and basic financial data analysis.
 
 ---
-
 ## Folder Structure
 
+```text
 resources/
 ├── data/
-│ ├── dummy_executive_compensation.csv
-│ ├── dummy_stock_data.csv
-│ └── dummy_financials.csv
+│   ├── dummy_executive_compensation.csv
+│   ├── dummy_stock_data.csv
+│   └── dummy_financials.csv
 ├── resource-01-setup.ipynb
 ├── resource-02-jupyter.ipynb
 ├── resource-03-python-basics.ipynb
@@ -22,10 +22,7 @@ resources/
 ├── resource-09-package-management.ipynb
 ├── resource-10-presentation-reporting.ipynb
 └── README.md
-
-yaml
-Copy
-Edit
+```
 
 ---
 
