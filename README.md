@@ -6,8 +6,6 @@ This repository contains coursework for **FIN 6305: Applied Quantitative Methods
 
 ## Repository Structure
 
-## Repository Structure
-
 ```text
 quant3/
 ├── README.md
