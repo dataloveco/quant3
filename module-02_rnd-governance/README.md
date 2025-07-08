@@ -43,6 +43,23 @@ module-02_rnd-governance/
 - Jupyter Notebook
 - WRDS (Compustat + BoardEx access)
 - Excel + PNG exports for reporting
+## 📥 How to Copy This Module
+To get a local copy of this module, follow these steps:
+1. Open a terminal on your computer.
+2. Navigate to the directory where you want to store the project.
+3. Clone the full repository:
+
+```bash
+git clone https://github.com/dataloveco/quant3.git
+```
+4. Navigate to this module's folder:
+
+```bash
+cd quant3/module-02_rnd-governance
+```
+From here, you can open `module_02_hw_final.ipynb` in JupyterLab or your preferred IDE and run the analysis.
+
+> 💡 **Note:** Git does not support cloning a subdirectory alone. Cloning the full repository ensures you get this module along with the shared resources and structure.
 ## 🚀 How to Run
 Ensure your WRDS access is configured and credentials are available.  
 Open `module_02_hw_final.ipynb` in JupyterLab and run all cells sequentially.
