@@ -33,7 +33,16 @@ quant3/
 │   ├── golden_parachute_stock_awards_boxplot.png
 │   ├── golden_parachute_total_curr_boxplot.png
 │   └── README.md
-├── module-02_regression/             # (To Be Posted)
+├── module-02_rnd-governance/
+│   ├── module_02_hw_final.ipynb
+│   ├── notebook_exports/
+│   │   ├── 01_variable_distributions.png
+│   │   ├── 02_correlation_matrix.png
+│   │   ├── 03_regression_diagnostics.png
+│   │   ├── hypothesis_test_results.xlsx
+│   │   ├── regression_coefficients.xlsx
+│   │   └── summary_statistics.xlsx
+│   └── README.md
 ├── module-03_two-stage-ls/           # (To Be Posted)
 ├── module-04_data-wrangling/         # (To Be Posted)
 ├── module-05_factor-models/          # (To Be Posted)
@@ -46,6 +55,9 @@ quant3/
     │   ├── dummy_executive_compensation.csv
     │   ├── dummy_stock_data.csv
     │   └── dummy_financials.csv
+    ├── data_dictionary/
+    │   ├── boardex_all_table_descriptions.xlsx
+    │   └── compustat_all_table_descriptions.xlsx
     ├── resource-01-setup.ipynb
     ├── resource-02-jupyter.ipynb
     ├── resource-03-python-basics.ipynb
