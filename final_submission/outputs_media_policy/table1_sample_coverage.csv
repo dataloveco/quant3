@@ -1,0 +1,2 @@
+Dataset start,Dataset end,Observations (weeks),Target prevalence (mean of y_true),Mean RF score,Mean LGBM score,RF ROC AUC (CV mean ± sd),RF PR AUC (CV mean ± sd),LGBM ROC AUC (CV mean ± sd),LGBM PR AUC (CV mean ± sd)
+2021-01-31,2025-08-31,240,0.025,0.604,0.0,0.568 ± 0.096,0.035 ± 0.058,0.480 ± 0.028,0.040 ± 0.069

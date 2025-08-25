@@ -1,0 +1,26 @@
+feature_pretty,feature_internal,mean_abs_shap
+Media sentiment — SNAP (lag 2),sent__SNAP_OR__Supplemental_Nutrition_Assistance_Program____lag2,0.014127642868892927
+Media sentiment — SNAP (lag 1),sent__SNAP_OR__Supplemental_Nutrition_Assistance_Program____lag1,0.014127642868892891
+Media sentiment — WIC (lag 2),sent__WIC_OR__Women__Infants__and_Children____lag2,0.012909834615823717
+Media sentiment — WIC (lag 1),sent__WIC_OR__Women__Infants__and_Children____lag1,0.012909834615823667
+Media sentiment — Food prices (roll 2),sent___food_prices__OR__grocery_inflation____roll2,0.009431518797929419
+Media volume — Food prices (roll 8),vol___food_prices__OR__grocery_inflation____roll8,0.009431518797929403
+Media sentiment — SNAP (lag 4),sent__SNAP_OR__Supplemental_Nutrition_Assistance_Program____lag4,0.008017800138210195
+Media sentiment — SNAP (lag 3),sent__SNAP_OR__Supplemental_Nutrition_Assistance_Program____lag3,0.008017800138210174
+Media sentiment — WIC (lag 4),sent__WIC_OR__Women__Infants__and_Children____lag4,0.00795331641218842
+Media sentiment — WIC (lag 3),sent__WIC_OR__Women__Infants__and_Children____lag3,0.0079533164121884
+Media sentiment — School meals,sent___school_lunch__OR__school_breakfast___,0.006995367055930812
+Media volume — School meals,vol___school_lunch__OR__school_breakfast___,0.00699536705593081
+Media volume — WIC (lag 2),vol__WIC_OR__Women__Infants__and_Children____lag2,0.006917503965755537
+Media volume — WIC (lag 1),vol__WIC_OR__Women__Infants__and_Children____lag1,0.006917503965755525
+Media volume — SNAP (lag 4),vol__SNAP_OR__Supplemental_Nutrition_Assistance_Program____lag4,0.006590580123297073
+Media volume — SNAP (lag 3),vol__SNAP_OR__Supplemental_Nutrition_Assistance_Program____lag3,0.006590580123297058
+Media volume — Food pantry (lag 2),vol___food_pantry__OR__food_bank____lag2,0.006407345866448871
+Media volume — Food pantry (lag 1),vol___food_pantry__OR__food_bank____lag1,0.006407345866448849
+Media sentiment — Food prices,sent___food_prices__OR__grocery_inflation___,0.006215293606053769
+Media volume — Food prices,vol___food_prices__OR__grocery_inflation___,0.006215293606053763
+Media volume — SNAP (lag 2),vol__SNAP_OR__Supplemental_Nutrition_Assistance_Program____lag2,0.006065819133805152
+Media volume — SNAP (lag 1),vol__SNAP_OR__Supplemental_Nutrition_Assistance_Program____lag1,0.0060658191338051415
+Media sentiment — Food insecurity (lag 4),sent___food_insecurity__OR__food_insufficiency____lag4,0.004064873447554338
+Media sentiment — Food insecurity (lag 3),sent___food_insecurity__OR__food_insufficiency____lag3,0.004064873447554335
+Media sentiment — SNAP,sent__SNAP_OR__Supplemental_Nutrition_Assistance_Program___,0.0038922139553771136

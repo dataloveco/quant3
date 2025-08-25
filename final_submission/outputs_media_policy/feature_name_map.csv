@@ -1,0 +1,97 @@
+sanitized,original
+"vol[(""food insecurity"" OR ""food insufficiency"")]",vol___food_insecurity__OR__food_insufficiency___
+"sent[(""food insecurity"" OR ""food insufficiency"")]",sent___food_insecurity__OR__food_insufficiency___
+"vol[(SNAP OR ""Supplemental Nutrition Assistance Program"")]",vol__SNAP_OR__Supplemental_Nutrition_Assistance_Program___
+"sent[(SNAP OR ""Supplemental Nutrition Assistance Program"")]",sent__SNAP_OR__Supplemental_Nutrition_Assistance_Program___
+"vol[(WIC OR ""Women, Infants, and Children"")]",vol__WIC_OR__Women__Infants__and_Children___
+"sent[(WIC OR ""Women, Infants, and Children"")]",sent__WIC_OR__Women__Infants__and_Children___
+"vol[(""food pantry"" OR ""food bank"")]",vol___food_pantry__OR__food_bank___
+"sent[(""food pantry"" OR ""food bank"")]",sent___food_pantry__OR__food_bank___
+"vol[(""school lunch"" OR ""school breakfast"")]",vol___school_lunch__OR__school_breakfast___
+"sent[(""school lunch"" OR ""school breakfast"")]",sent___school_lunch__OR__school_breakfast___
+"vol[(""food prices"" OR ""grocery inflation"")]",vol___food_prices__OR__grocery_inflation___
+"sent[(""food prices"" OR ""grocery inflation"")]",sent___food_prices__OR__grocery_inflation___
+"vol[(""food insecurity"" OR ""food insufficiency"")]_lag1",vol___food_insecurity__OR__food_insufficiency____lag1
+"vol[(""food insecurity"" OR ""food insufficiency"")]_lag2",vol___food_insecurity__OR__food_insufficiency____lag2
+"vol[(""food insecurity"" OR ""food insufficiency"")]_lag3",vol___food_insecurity__OR__food_insufficiency____lag3
+"vol[(""food insecurity"" OR ""food insufficiency"")]_lag4",vol___food_insecurity__OR__food_insufficiency____lag4
+"sent[(""food insecurity"" OR ""food insufficiency"")]_lag1",sent___food_insecurity__OR__food_insufficiency____lag1
+"sent[(""food insecurity"" OR ""food insufficiency"")]_lag2",sent___food_insecurity__OR__food_insufficiency____lag2
+"sent[(""food insecurity"" OR ""food insufficiency"")]_lag3",sent___food_insecurity__OR__food_insufficiency____lag3
+"sent[(""food insecurity"" OR ""food insufficiency"")]_lag4",sent___food_insecurity__OR__food_insufficiency____lag4
+"vol[(SNAP OR ""Supplemental Nutrition Assistance Program"")]_lag1",vol__SNAP_OR__Supplemental_Nutrition_Assistance_Program____lag1
+"vol[(SNAP OR ""Supplemental Nutrition Assistance Program"")]_lag2",vol__SNAP_OR__Supplemental_Nutrition_Assistance_Program____lag2
+"vol[(SNAP OR ""Supplemental Nutrition Assistance Program"")]_lag3",vol__SNAP_OR__Supplemental_Nutrition_Assistance_Program____lag3
+"vol[(SNAP OR ""Supplemental Nutrition Assistance Program"")]_lag4",vol__SNAP_OR__Supplemental_Nutrition_Assistance_Program____lag4
+"sent[(SNAP OR ""Supplemental Nutrition Assistance Program"")]_lag1",sent__SNAP_OR__Supplemental_Nutrition_Assistance_Program____lag1
+"sent[(SNAP OR ""Supplemental Nutrition Assistance Program"")]_lag2",sent__SNAP_OR__Supplemental_Nutrition_Assistance_Program____lag2
+"sent[(SNAP OR ""Supplemental Nutrition Assistance Program"")]_lag3",sent__SNAP_OR__Supplemental_Nutrition_Assistance_Program____lag3
+"sent[(SNAP OR ""Supplemental Nutrition Assistance Program"")]_lag4",sent__SNAP_OR__Supplemental_Nutrition_Assistance_Program____lag4
+"vol[(WIC OR ""Women, Infants, and Children"")]_lag1",vol__WIC_OR__Women__Infants__and_Children____lag1
+"vol[(WIC OR ""Women, Infants, and Children"")]_lag2",vol__WIC_OR__Women__Infants__and_Children____lag2
+"vol[(WIC OR ""Women, Infants, and Children"")]_lag3",vol__WIC_OR__Women__Infants__and_Children____lag3
+"vol[(WIC OR ""Women, Infants, and Children"")]_lag4",vol__WIC_OR__Women__Infants__and_Children____lag4
+"sent[(WIC OR ""Women, Infants, and Children"")]_lag1",sent__WIC_OR__Women__Infants__and_Children____lag1
+"sent[(WIC OR ""Women, Infants, and Children"")]_lag2",sent__WIC_OR__Women__Infants__and_Children____lag2
+"sent[(WIC OR ""Women, Infants, and Children"")]_lag3",sent__WIC_OR__Women__Infants__and_Children____lag3
+"sent[(WIC OR ""Women, Infants, and Children"")]_lag4",sent__WIC_OR__Women__Infants__and_Children____lag4
+"vol[(""food pantry"" OR ""food bank"")]_lag1",vol___food_pantry__OR__food_bank____lag1
+"vol[(""food pantry"" OR ""food bank"")]_lag2",vol___food_pantry__OR__food_bank____lag2
+"vol[(""food pantry"" OR ""food bank"")]_lag3",vol___food_pantry__OR__food_bank____lag3
+"vol[(""food pantry"" OR ""food bank"")]_lag4",vol___food_pantry__OR__food_bank____lag4
+"sent[(""food pantry"" OR ""food bank"")]_lag1",sent___food_pantry__OR__food_bank____lag1
+"sent[(""food pantry"" OR ""food bank"")]_lag2",sent___food_pantry__OR__food_bank____lag2
+"sent[(""food pantry"" OR ""food bank"")]_lag3",sent___food_pantry__OR__food_bank____lag3
+"sent[(""food pantry"" OR ""food bank"")]_lag4",sent___food_pantry__OR__food_bank____lag4
+"vol[(""school lunch"" OR ""school breakfast"")]_lag1",vol___school_lunch__OR__school_breakfast____lag1
+"vol[(""school lunch"" OR ""school breakfast"")]_lag2",vol___school_lunch__OR__school_breakfast____lag2
+"vol[(""school lunch"" OR ""school breakfast"")]_lag3",vol___school_lunch__OR__school_breakfast____lag3
+"vol[(""school lunch"" OR ""school breakfast"")]_lag4",vol___school_lunch__OR__school_breakfast____lag4
+"sent[(""school lunch"" OR ""school breakfast"")]_lag1",sent___school_lunch__OR__school_breakfast____lag1
+"sent[(""school lunch"" OR ""school breakfast"")]_lag2",sent___school_lunch__OR__school_breakfast____lag2
+"sent[(""school lunch"" OR ""school breakfast"")]_lag3",sent___school_lunch__OR__school_breakfast____lag3
+"sent[(""school lunch"" OR ""school breakfast"")]_lag4",sent___school_lunch__OR__school_breakfast____lag4
+"vol[(""food prices"" OR ""grocery inflation"")]_lag1",vol___food_prices__OR__grocery_inflation____lag1
+"vol[(""food prices"" OR ""grocery inflation"")]_lag2",vol___food_prices__OR__grocery_inflation____lag2
+"vol[(""food prices"" OR ""grocery inflation"")]_lag3",vol___food_prices__OR__grocery_inflation____lag3
+"vol[(""food prices"" OR ""grocery inflation"")]_lag4",vol___food_prices__OR__grocery_inflation____lag4
+"sent[(""food prices"" OR ""grocery inflation"")]_lag1",sent___food_prices__OR__grocery_inflation____lag1
+"sent[(""food prices"" OR ""grocery inflation"")]_lag2",sent___food_prices__OR__grocery_inflation____lag2
+"sent[(""food prices"" OR ""grocery inflation"")]_lag3",sent___food_prices__OR__grocery_inflation____lag3
+"sent[(""food prices"" OR ""grocery inflation"")]_lag4",sent___food_prices__OR__grocery_inflation____lag4
+"vol[(""food insecurity"" OR ""food insufficiency"")]_roll2",vol___food_insecurity__OR__food_insufficiency____roll2
+"vol[(""food insecurity"" OR ""food insufficiency"")]_roll4",vol___food_insecurity__OR__food_insufficiency____roll4
+"vol[(""food insecurity"" OR ""food insufficiency"")]_roll8",vol___food_insecurity__OR__food_insufficiency____roll8
+"sent[(""food insecurity"" OR ""food insufficiency"")]_roll2",sent___food_insecurity__OR__food_insufficiency____roll2
+"sent[(""food insecurity"" OR ""food insufficiency"")]_roll4",sent___food_insecurity__OR__food_insufficiency____roll4
+"sent[(""food insecurity"" OR ""food insufficiency"")]_roll8",sent___food_insecurity__OR__food_insufficiency____roll8
+"vol[(SNAP OR ""Supplemental Nutrition Assistance Program"")]_roll2",vol__SNAP_OR__Supplemental_Nutrition_Assistance_Program____roll2
+"vol[(SNAP OR ""Supplemental Nutrition Assistance Program"")]_roll4",vol__SNAP_OR__Supplemental_Nutrition_Assistance_Program____roll4
+"vol[(SNAP OR ""Supplemental Nutrition Assistance Program"")]_roll8",vol__SNAP_OR__Supplemental_Nutrition_Assistance_Program____roll8
+"sent[(SNAP OR ""Supplemental Nutrition Assistance Program"")]_roll2",sent__SNAP_OR__Supplemental_Nutrition_Assistance_Program____roll2
+"sent[(SNAP OR ""Supplemental Nutrition Assistance Program"")]_roll4",sent__SNAP_OR__Supplemental_Nutrition_Assistance_Program____roll4
+"sent[(SNAP OR ""Supplemental Nutrition Assistance Program"")]_roll8",sent__SNAP_OR__Supplemental_Nutrition_Assistance_Program____roll8
+"vol[(WIC OR ""Women, Infants, and Children"")]_roll2",vol__WIC_OR__Women__Infants__and_Children____roll2
+"vol[(WIC OR ""Women, Infants, and Children"")]_roll4",vol__WIC_OR__Women__Infants__and_Children____roll4
+"vol[(WIC OR ""Women, Infants, and Children"")]_roll8",vol__WIC_OR__Women__Infants__and_Children____roll8
+"sent[(WIC OR ""Women, Infants, and Children"")]_roll2",sent__WIC_OR__Women__Infants__and_Children____roll2
+"sent[(WIC OR ""Women, Infants, and Children"")]_roll4",sent__WIC_OR__Women__Infants__and_Children____roll4
+"sent[(WIC OR ""Women, Infants, and Children"")]_roll8",sent__WIC_OR__Women__Infants__and_Children____roll8
+"vol[(""food pantry"" OR ""food bank"")]_roll2",vol___food_pantry__OR__food_bank____roll2
+"vol[(""food pantry"" OR ""food bank"")]_roll4",vol___food_pantry__OR__food_bank____roll4
+"vol[(""food pantry"" OR ""food bank"")]_roll8",vol___food_pantry__OR__food_bank____roll8
+"sent[(""food pantry"" OR ""food bank"")]_roll2",sent___food_pantry__OR__food_bank____roll2
+"sent[(""food pantry"" OR ""food bank"")]_roll4",sent___food_pantry__OR__food_bank____roll4
+"sent[(""food pantry"" OR ""food bank"")]_roll8",sent___food_pantry__OR__food_bank____roll8
+"vol[(""school lunch"" OR ""school breakfast"")]_roll2",vol___school_lunch__OR__school_breakfast____roll2
+"vol[(""school lunch"" OR ""school breakfast"")]_roll4",vol___school_lunch__OR__school_breakfast____roll4
+"vol[(""school lunch"" OR ""school breakfast"")]_roll8",vol___school_lunch__OR__school_breakfast____roll8
+"sent[(""school lunch"" OR ""school breakfast"")]_roll2",sent___school_lunch__OR__school_breakfast____roll2
+"sent[(""school lunch"" OR ""school breakfast"")]_roll4",sent___school_lunch__OR__school_breakfast____roll4
+"sent[(""school lunch"" OR ""school breakfast"")]_roll8",sent___school_lunch__OR__school_breakfast____roll8
+"vol[(""food prices"" OR ""grocery inflation"")]_roll2",vol___food_prices__OR__grocery_inflation____roll2
+"vol[(""food prices"" OR ""grocery inflation"")]_roll4",vol___food_prices__OR__grocery_inflation____roll4
+"vol[(""food prices"" OR ""grocery inflation"")]_roll8",vol___food_prices__OR__grocery_inflation____roll8
+"sent[(""food prices"" OR ""grocery inflation"")]_roll2",sent___food_prices__OR__grocery_inflation____roll2
+"sent[(""food prices"" OR ""grocery inflation"")]_roll4",sent___food_prices__OR__grocery_inflation____roll4
+"sent[(""food prices"" OR ""grocery inflation"")]_roll8",sent___food_prices__OR__grocery_inflation____roll8

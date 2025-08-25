@@ -1,0 +1,26 @@
+feature_pretty,feature_internal,importance
+Media volume — Food insecurity (roll 4),vol___food_insecurity__OR__food_insufficiency____roll4,0.05014903221724111
+Media sentiment — Food insecurity (roll 4),sent___food_insecurity__OR__food_insufficiency____roll4,0.038401054654132
+Media sentiment — Food insecurity (roll 2),sent___food_insecurity__OR__food_insufficiency____roll2,0.03527738315077895
+Media volume — Food insecurity (roll 2),vol___food_insecurity__OR__food_insufficiency____roll2,0.03346743076573641
+Media volume — Food insecurity (roll 8),vol___food_insecurity__OR__food_insufficiency____roll8,0.03236609051691247
+Media volume — Food prices (lag 1),vol___food_prices__OR__grocery_inflation____lag1,0.03149519722599663
+Media sentiment — Food prices (roll 2),sent___food_prices__OR__grocery_inflation____roll2,0.031345539400924535
+Media sentiment — Food insecurity (roll 8),sent___food_insecurity__OR__food_insufficiency____roll8,0.03125878484638881
+Media sentiment — Food prices (lag 1),sent___food_prices__OR__grocery_inflation____lag1,0.031225115768312134
+Media volume — Food prices (roll 2),vol___food_prices__OR__grocery_inflation____roll2,0.030454302729518993
+Media sentiment — Food insecurity (lag 1),sent___food_insecurity__OR__food_insufficiency____lag1,0.027620607111279328
+Media volume — Food insecurity (lag 1),vol___food_insecurity__OR__food_insufficiency____lag1,0.024768452187699637
+Media sentiment — Food prices (roll 4),sent___food_prices__OR__grocery_inflation____roll4,0.022343551470275714
+Media volume — WIC (roll 2),vol__WIC_OR__Women__Infants__and_Children____roll2,0.018278805585160565
+Media sentiment — Food insecurity (lag 3),sent___food_insecurity__OR__food_insufficiency____lag3,0.016406669128679913
+Media volume — SNAP (roll 8),vol__SNAP_OR__Supplemental_Nutrition_Assistance_Program____roll8,0.016204922173897802
+Media sentiment — School meals (roll 2),sent___school_lunch__OR__school_breakfast____roll2,0.01571850315048595
+Media volume — Food insecurity (lag 2),vol___food_insecurity__OR__food_insufficiency____lag2,0.014424920487858631
+Media volume — Food prices (roll 8),vol___food_prices__OR__grocery_inflation____roll8,0.014118446025686161
+Media volume — School meals (lag 3),vol___school_lunch__OR__school_breakfast____lag3,0.01405136691166274
+Media volume — Food prices (roll 4),vol___food_prices__OR__grocery_inflation____roll4,0.013854206027387385
+Media sentiment — Food insecurity (lag 2),sent___food_insecurity__OR__food_insufficiency____lag2,0.013643980867689443
+Media sentiment — Food prices,sent___food_prices__OR__grocery_inflation___,0.0134905648945126
+Media sentiment — WIC (roll 2),sent__WIC_OR__Women__Infants__and_Children____roll2,0.013216160811603749
+Media sentiment — Food pantry (roll 8),sent___food_pantry__OR__food_bank____roll8,0.013191068463061888

@@ -1,0 +1,26 @@
+feature_pretty,feature_internal,importance
+Media volume — Food insecurity (roll 8),vol___food_insecurity__OR__food_insufficiency____roll8,317
+Media volume — Food insecurity (roll 4),vol___food_insecurity__OR__food_insufficiency____roll4,285
+Media volume — Food prices (lag 1),vol___food_prices__OR__grocery_inflation____lag1,209
+Media volume — WIC (roll 8),vol__WIC_OR__Women__Infants__and_Children____roll8,184
+Media volume — Food pantry (roll 8),vol___food_pantry__OR__food_bank____roll8,169
+Media volume — SNAP (lag 4),vol__SNAP_OR__Supplemental_Nutrition_Assistance_Program____lag4,164
+Media volume — Food insecurity (roll 2),vol___food_insecurity__OR__food_insufficiency____roll2,130
+Media volume — School meals (roll 2),vol___school_lunch__OR__school_breakfast____roll2,106
+Media volume — SNAP (roll 8),vol__SNAP_OR__Supplemental_Nutrition_Assistance_Program____roll8,104
+Media volume — Food insecurity (lag 1),vol___food_insecurity__OR__food_insufficiency____lag1,99
+Media volume — Food prices (roll 2),vol___food_prices__OR__grocery_inflation____roll2,94
+Media volume — WIC (roll 2),vol__WIC_OR__Women__Infants__and_Children____roll2,88
+Media volume — SNAP (lag 1),vol__SNAP_OR__Supplemental_Nutrition_Assistance_Program____lag1,81
+Media volume — Food insecurity (lag 3),vol___food_insecurity__OR__food_insufficiency____lag3,78
+Media volume — School meals,vol___school_lunch__OR__school_breakfast___,78
+Media volume — Food pantry (lag 3),vol___food_pantry__OR__food_bank____lag3,77
+Media volume — Food pantry,vol___food_pantry__OR__food_bank___,77
+Media volume — Food insecurity,vol___food_insecurity__OR__food_insufficiency___,70
+Media volume — Food prices (roll 4),vol___food_prices__OR__grocery_inflation____roll4,70
+Media volume — Food prices (lag 3),vol___food_prices__OR__grocery_inflation____lag3,68
+Media volume — Food prices (lag 2),vol___food_prices__OR__grocery_inflation____lag2,62
+Media volume — Food pantry (roll 2),vol___food_pantry__OR__food_bank____roll2,62
+Media volume — School meals (lag 3),vol___school_lunch__OR__school_breakfast____lag3,56
+Media sentiment — Food insecurity (roll 4),sent___food_insecurity__OR__food_insufficiency____roll4,54
+Media volume — WIC (roll 4),vol__WIC_OR__Women__Infants__and_Children____roll4,54

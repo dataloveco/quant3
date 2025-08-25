@@ -1,0 +1,11 @@
+Metric,Value
+Dataset start,2021-01-31
+Dataset end,2025-08-31
+Observations (weeks),240
+Target prevalence (mean of y_true),0.025
+Mean RF score,0.604
+Mean LGBM score,1.10e-04
+RF ROC AUC (CV mean ± sd),0.568 ± 0.096
+RF PR AUC (CV mean ± sd),0.035 ± 0.058
+LGBM ROC AUC (CV mean ± sd),0.480 ± 0.028
+LGBM PR AUC (CV mean ± sd),0.040 ± 0.069
